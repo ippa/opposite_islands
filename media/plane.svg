@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg2650"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="plane.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="C:\Users\ippa\Documents\dev\projects\RubyWeekend Compo #2 - Opposites\small_plane.bmp.png"
+   inkscape:export-xdpi="126.45444"
+   inkscape:export-ydpi="126.45444">
+  <defs
+     id="defs2652">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective2658" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.5"
+     inkscape:cx="15.545455"
+     inkscape:cy="32.0916"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="670"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8" />
+  <metadata
+     id="metadata2655">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#666666"
+       d="M 28.941633,34.159916 C 28.933733,33.968249 28.976705,33.860861 29.037122,33.921278 C 29.097535,33.981692 29.103996,34.138512 29.051475,34.269763 C 28.993435,34.414805 28.950351,34.371723 28.941627,34.159914 L 28.941633,34.159916 z"
+       id="path2709" />
+    <rect
+       style="fill:#241c1c;stroke:#000000;stroke-width:0.71208662;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3541"
+       width="1.5606407"
+       height="4.8333678"
+       x="23.310589"
+       y="29.856043" />
+    <rect
+       style="fill:#241c1c;stroke:#000000;stroke-width:0.67947304;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3543"
+       width="1.4114361"
+       height="4.8659816"
+       x="38.203373"
+       y="29.930645" />
+    <path
+       style="fill:#666666;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 31.71875 25.625 C 30.527743 25.625 29.5355 28.934166 29.3125 33.3125 C 22.714448 33.477677 17.624999 34.393002 17.625 35.53125 C 17.625 36.673022 22.74702 37.620401 29.375 37.78125 C 29.668059 41.777655 30.597472 44.718751 31.71875 44.71875 C 32.839957 44.71875 33.769378 41.777266 34.0625 37.78125 C 40.346247 37.573119 45.093751 36.632541 45.09375 35.53125 C 45.09375 34.433523 40.378416 33.524539 34.125 33.3125 C 33.901996 28.93419 32.909754 25.624999 31.71875 25.625 z "
+       id="path2758" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#0000ff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3539"
+       sodipodi:cx="32.090908"
+       sodipodi:cy="32.090908"
+       sodipodi:rx="1.1818181"
+       sodipodi:ry="3"
+       d="M 33.272726,32.090908 A 1.1818181,3 0 1 1 30.90909,32.090908 A 1.1818181,3 0 1 1 33.272726,32.090908 z"
+       transform="translate(-0.5454545,-2.9090909)" />
+  </g>
+</svg>

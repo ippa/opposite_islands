@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3627"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="cruiser.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3629">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-1123.2032 : 530.18729 : 1"
+       inkscape:vp_y="-529.59176 : 2499.0098 : 0"
+       inkscape:vp_z="268.43802 : 1501.4345 : 1"
+       inkscape:persp3d-origin="8.8176621 : 928.31469 : 1"
+       id="perspective3865" />
+    <inkscape:perspective
+       id="perspective3779"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="6.1230318e-14 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3777"
+       inkscape:persp3d-origin="363.08665 : 288.18095 : 1"
+       inkscape:vp_z="732.23016 : 737.08586 : 1"
+       inkscape:vp_y="6.075243e-14 : 2559.413 : 0"
+       inkscape:vp_x="-431.09298 : 600.71063 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3761"
+       inkscape:persp3d-origin="375.57218 : 244.05638 : 1"
+       inkscape:vp_z="747.61942 : 419.45008 : 1"
+       inkscape:vp_y="6.1230318e-14 : 1000 : 0"
+       inkscape:vp_x="3.5249437 : 419.45008 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="6.1230318e-14 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3635" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4399626"
+     inkscape:cx="379.29165"
+     inkscape:cy="642.91287"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="670"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8" />
+  <metadata
+     id="metadata3632">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:2.66691136;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 33.542555,411.62692 L 33.542555,316.23775 L 568.33915,316.23775 L 1103.1357,316.23775 L 1103.1357,411.62692 L 1103.1357,507.01609 L 568.33915,507.01609 L 33.542555,507.01609 L 33.542555,411.62692 z"
+       id="path3675"
+       inkscape:export-filename="C:\Users\ippa\Documents\dev\projects\RubyWeekend Compo #2 - Opposites\cruiser.png"
+       inkscape:export-xdpi="55.501942"
+       inkscape:export-ydpi="55.501942" />
+    <rect
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:1.24724221;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3679"
+       width="127.47616"
+       height="18.156559"
+       x="325.82681"
+       y="404.59122"
+       inkscape:export-filename="C:\Users\ippa\Documents\dev\projects\RubyWeekend Compo #2 - Opposites\cruiser.png"
+       inkscape:export-xdpi="55.501942"
+       inkscape:export-ydpi="55.501942" />
+    <rect
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:1.24724221;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3681"
+       width="127.47616"
+       height="18.156559"
+       x="485.17206"
+       y="404.59122"
+       inkscape:export-filename="C:\Users\ippa\Documents\dev\projects\RubyWeekend Compo #2 - Opposites\cruiser.png"
+       inkscape:export-xdpi="55.501942"
+       inkscape:export-ydpi="55.501942" />
+    <rect
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:1.24724221;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3683"
+       width="127.47616"
+       height="18.156559"
+       x="637.43524"
+       y="404.59125"
+       inkscape:export-filename="C:\Users\ippa\Documents\dev\projects\RubyWeekend Compo #2 - Opposites\cruiser.png"
+       inkscape:export-xdpi="55.501942"
+       inkscape:export-ydpi="55.501942" />
+    <rect
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:1.24724221;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3685"
+       width="127.47616"
+       height="18.156559"
+       x="789.69849"
+       y="404.59125"
+       inkscape:export-filename="C:\Users\ippa\Documents\dev\projects\RubyWeekend Compo #2 - Opposites\cruiser.png"
+       inkscape:export-xdpi="55.501942"
+       inkscape:export-ydpi="55.501942" />
+    <rect
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:1.24724221;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3687"
+       width="127.47616"
+       height="18.156559"
+       x="949.04358"
+       y="404.59122"
+       inkscape:export-filename="C:\Users\ippa\Documents\dev\projects\RubyWeekend Compo #2 - Opposites\cruiser.png"
+       inkscape:export-xdpi="55.501942"
+       inkscape:export-ydpi="55.501942" />
+    <rect
+       style="fill:#808080;stroke:#000000;stroke-width:0.96356243;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3995"
+       width="187.85785"
+       height="193.18132"
+       x="31.771732"
+       y="315.94406"
+       inkscape:export-filename="C:\Users\ippa\Documents\dev\projects\RubyWeekend Compo #2 - Opposites\cruiser.png"
+       inkscape:export-xdpi="55.501942"
+       inkscape:export-ydpi="55.501942" />
+  </g>
+</svg>
